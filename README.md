@@ -1,2 +1,2 @@
 # SJ_REF
-ieee sensors journal References 
+ieee sensors journal Chinese References 
